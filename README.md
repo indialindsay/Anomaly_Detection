@@ -3,7 +3,7 @@
 
 Despite efforts to reduce waste, energy consumption in buildings has steadily increased in the last decade. Commercial buildings are specifically at risk of using more energy than necessary because of faulty construction, malfunctioning equipment and many other issues. The key problem is that fault detection in buildings for excess energy consumption is often primitive, leading to large amounts of waste. 
 
-__Interested in learning more??__ Check out the medium article we wrote about this project 
+__Interested in learning more??__ Check out the [medium article](https://indialindsay1.medium.com/identifying-anomalies-in-commercial-energy-consumption-b0e72f569bb2) we wrote about this project 
 
 Click below to check out our code: 
 - [Pre-processing the data](https://github.com/indialindsay/Adv_Predictive_Modeling-/blob/main/Preprocessing%20Data.ipynb)
